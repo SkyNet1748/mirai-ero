@@ -11,3 +11,5 @@
 [![Ycituss](https://github-readme-stats.vercel.app/api/pin/?username=Ycituss&repo=suijisetu&show_owner=true)](https://github.com/Ycituss/suijisetu)
 
 [![bloodyrabbit](https://github-readme-stats.vercel.app/api/pin/?username=bloodyrabbit&repo=mirai-setu&show_owner=true)](https://github.com/bloodyrabbit/mirai-setu)
+
+[![MrXiaoM](https://github-readme-stats.vercel.app/api/pin/?username=MrXiaoM&repo=LoliYouWant&show_owner=true)](https://github.com/MrXiaoM/LoliYouWant)
